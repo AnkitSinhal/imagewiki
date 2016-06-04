@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageWikipedia</string>
+    <string name="no_result_found">No result found</string>
+    <string name="main_permissions_no_read_storage">No permission for read/write sd card</string>
+    <string name="search_wikipedia">Search Wikipedia</string>
+
+</resources>
